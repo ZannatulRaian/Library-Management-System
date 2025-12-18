@@ -59,6 +59,10 @@ Designed for small to medium-sized libraries, it is lightweight, simple, and eff
 
 ---
 
+## Block Diagram
+
+<img width="682" height="736" alt="2145" src="https://github.com/user-attachments/assets/f2d00057-e00e-4e07-9cc9-550662ae96c3" />
+
 ## How to Run
 
 1. Clone the repository:
