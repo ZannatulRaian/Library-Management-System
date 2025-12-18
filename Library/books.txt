@@ -1,0 +1,90 @@
+1
+C Programming Absolute Beginner's Guide
+Greg Perry
+101
+1
+1001
+2
+Let Us C
+Yashavant Kanetkar
+102
+1
+1003
+3
+The Pragmatic Programmer
+Andrew Hunt
+103
+0
+0
+4
+Clean Code
+Robert C. Martin
+104
+0
+0
+5
+Algorithms Unlocked
+Thomas H. Cormen
+105
+0
+0
+6
+Introduction to Algorithms
+Cormen, Leiserson, Rivest, Stein
+105
+1
+1002
+7
+Computer Networks
+Andrew S. Tanenbaum
+106
+0
+0
+8
+Data Communications and Networking
+Behrouz A. Forouzan
+106
+0
+0
+9
+Operating System Concepts
+Abraham Silberschatz
+107
+0
+0
+10
+Digital Logic Design
+M. Morris Mano
+108
+1
+1005
+11
+Database System Concepts
+Henry F. Korth
+109
+0
+0
+12
+Discrete Mathematics and Its Applications
+Kenneth Rosen
+110
+0
+0
+13
+Software Engineering
+Ian Sommerville
+111
+1
+1003
+14
+Artificial Intelligence: A Modern Approach
+Stuart Russell
+112
+0
+0
+15
+Object-Oriented Programming in C++
+Robert Lafore
+113
+1
+1001

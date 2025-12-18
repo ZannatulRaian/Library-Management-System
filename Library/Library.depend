@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1763384213 source:c:\users\zannatul rayanh\desktop\project\library\admin.c
+	"library.h"
+
+1763373508 c:\users\zannatul rayanh\desktop\project\library\library.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763373508 source:c:\users\zannatul rayanh\desktop\project\library\files.c
+	"library.h"
+
+1763373508 source:c:\users\zannatul rayanh\desktop\project\library\main.c
+	"library.h"
+
+1763373508 source:c:\users\zannatul rayanh\desktop\project\library\student.c
+	"library.h"
+
+1763614271 source:c:\users\zannatul rayanh\onedrive\desktop\project\library\admin.c
+	"library.h"
+
+1763614271 c:\users\zannatul rayanh\onedrive\desktop\project\library\library.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763614271 source:c:\users\zannatul rayanh\onedrive\desktop\project\library\files.c
+	"library.h"
+
+1763614271 source:c:\users\zannatul rayanh\onedrive\desktop\project\library\main.c
+	"library.h"
+
+1763614271 source:c:\users\zannatul rayanh\onedrive\desktop\project\library\student.c
+	"library.h"
+
