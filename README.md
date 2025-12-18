@@ -175,4 +175,4 @@ LMS.exe # Windows
 
 ## License
 
-This project is open-source for educational purposes.
+https://opensource.org/licenses/MIT
