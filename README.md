@@ -1,9 +1,5 @@
 # Library Management System (LMS) in C
-
-Department of Computer Science and Engineering  
-Pundra University of Science & Technology, Bangladesh  
-Authors: Tasbiha Zaman, Zannatul Raian, Raisa Rasmeen  
-Supervisor: Sahela Rahman (Lecturer, CSE)  
+ 
 Date: November 2025
 
 ---
